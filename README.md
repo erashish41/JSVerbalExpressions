@@ -38,7 +38,7 @@ Or use ES6's `import`:
 ```js
 import VerEx from 'verbal-expressions';
 ```
-
+# Ashish Bhardwaj
 ## Running tests
 
 ```sh
